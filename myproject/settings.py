@@ -26,7 +26,7 @@ SECRET_KEY = 'o4_66qgzxe)*kuwof&44$(72*b*(m%dwv-nases^^wd3$(!57v'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'barkha.pythonanywhere.com/'
+    'barkha.pythonanywhere.com',
 ]
 
 

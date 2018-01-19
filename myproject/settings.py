@@ -25,7 +25,9 @@ SECRET_KEY = 'o4_66qgzxe)*kuwof&44$(72*b*(m%dwv-nases^^wd3$(!57v'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'barkha.pythonanywhere.com/'
+]
 
 
 # Application definition
